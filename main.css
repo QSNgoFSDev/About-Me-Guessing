@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    letter-spacing: 10px;
+    color: #424141;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gainsboro;
+
+}
+
+p {
+    padding: 10px 10px;
+    margin: 10px 10px ;
+    text-align: center;
+    
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    font-size: medium;
+    background-color:gainsboro;
+    word-spacing: 3px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+
+
+}
