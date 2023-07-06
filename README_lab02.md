@@ -29,4 +29,4 @@ Categories: Accessibility
 Strive for a score between 50-65. Make necessary adjustments based on the report to achieve that score.
 Add a screenshot of your score to your README.md file.
 
-[100] Score
+[100] Score.
